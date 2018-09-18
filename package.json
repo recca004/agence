@@ -1,0 +1,24 @@
+{
+  "name": "agence-25",
+  "version": "1.0.0",
+  "description": "webdesigner agence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/recca004/agence.git"
+  },
+  "keywords": [
+    "webdesigner",
+    "web",
+    "developer"
+  ],
+  "author": "Mario Neita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/recca004/agence/issues"
+  },
+  "homepage": "https://github.com/recca004/agence#readme"
+}
